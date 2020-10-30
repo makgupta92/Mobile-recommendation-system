@@ -294,7 +294,7 @@ Priority 3 <select name="p3">
 	?>
 </table>
 <br>
-
+<h1> Learning Git </h1>
 
 
 <div class="slideshow-container">
